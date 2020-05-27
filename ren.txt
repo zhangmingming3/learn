@@ -6,3 +6,4 @@ rgwerggth
 6666666
 Creating a new branch is quick.
 Creating.
+Creating a new branch is quick & simple.
